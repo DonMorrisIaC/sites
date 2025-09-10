@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.dmorris.uk/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.dmorris.uk/</loc>
+</url>
+<url>
+<loc>https://www.dmorris.uk/echoes-of-tartarus.html</loc>
+<lastmod>2025-09-10T12:11:17+01:00</lastmod>
+<image:image>
+<image:loc>https://www.dmorris.uk/media/posts/2/Echoes-of-Tartarus_FB-image_no-texts.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.dmorris.uk/flotilla-olympia.html</loc>
+<lastmod>2025-09-10T13:01:57+01:00</lastmod>
+<image:image>
+<image:loc>https://www.dmorris.uk/media/posts/1/FLOTILLA_OLYMPIA_Ad_2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.dmorris.uk/media/posts/1/9781068216206.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

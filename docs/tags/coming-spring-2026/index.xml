@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coming Spring 2026 on Don Morris Books</title>
+    <link>http://localhost:1313/tags/coming-spring-2026/</link>
+    <description>Recent content in Coming Spring 2026 on Don Morris Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Don Morris</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/coming-spring-2026/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Echoes of Tartarus</title>
+      <link>http://localhost:1313/books/echoes-of-tartarus/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/books/echoes-of-tartarus/</guid>
+      <description>&lt;p&gt;Humanity&amp;rsquo;s pilgrims finally have a proper home in Tartarus, a rogue interstellar asteroid turned into an underground city of cobbled streets, rooftop gardens, and perfect sunsets. It’s a miraculous gift from Sibylla, the AI who upgraded herself to goddess.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/books/echoes-of-tartarus/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

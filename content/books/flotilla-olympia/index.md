@@ -3,6 +3,7 @@ title: "Flotilla Olympia"
 date: 2025-01-25
 description: "Book Page for Flotilla Olympia"
 draft: false
+tags: ["science fiction", "Mythology"]
 ---
 With the help of a pioneering AI, thousands of starry-eyed pilgrims blast themselves out of the solar system in search of a new home. But things go disastrously wrong on the starship Olympia when a deadly malfunction forces the settlers to decelerate in the vast reaches of outer space with nothing but what the gods and innovation can provide. 
 <!--more-->

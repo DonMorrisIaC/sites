@@ -3,11 +3,8 @@ title: "Echoes of Tartarus"
 date: 2025-01-25
 description: "Book Page for Echoes of Tartarus"
 draft: false
+tags: ["Coming Spring 2026"]
 ---
-{{< lead >}}
-Coming Spring 2026... 
-{{< /lead >}}
-
 Humanity's pilgrims finally have a proper home in Tartarus, a rogue interstellar asteroid turned into an underground city of cobbled streets, rooftop gardens, and perfect sunsets. It’s a miraculous gift from Sibylla, the AI who upgraded herself to goddess.
 <!--more-->
 Ruby Ward serves as a Hoplite, a peacekeeper tasked with upholding Sibylla’s order across the Flotilla. After a stretch of welcome calm, the Hoplites are caught completely off guard by a harmless protest that ends in an execution and a one-way trip to the fertiliser heap.

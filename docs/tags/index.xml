@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Don Morris</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coming Spring 2026</title>
+      <link>http://localhost:1313/tags/coming-spring-2026/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/coming-spring-2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mythology</title>
+      <link>http://localhost:1313/tags/mythology/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mythology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Science Fiction</title>
+      <link>http://localhost:1313/tags/science-fiction/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/science-fiction/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

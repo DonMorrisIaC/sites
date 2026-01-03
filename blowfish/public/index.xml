@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my page on Don Morris Books</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to my page on Don Morris Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Don Morris</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Echoes of Tartarus</title>
+      <link>http://localhost:1313/books/echoes-of-tartarus/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/books/echoes-of-tartarus/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  Coming Spring 2026&amp;hellip;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Humanity&amp;rsquo;s pilgrims finally have a proper home in Tartarus, a rogue interstellar asteroid turned into an underground city of cobbled streets, rooftop gardens, and perfect sunsets. It’s a miraculous gift from Sibylla, the AI who upgraded herself to goddess.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/books/echoes-of-tartarus/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Flotilla Olympia</title>
+      <link>http://localhost:1313/books/flotilla-olympia/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/books/flotilla-olympia/</guid>
+      <description>&lt;p&gt;With the help of a pioneering AI, thousands of starry-eyed pilgrims blast themselves out of the solar system in search of a new home. But things go disastrously wrong on the starship Olympia when a deadly malfunction forces the settlers to decelerate in the vast reaches of outer space with nothing but what the gods and innovation can provide.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/books/flotilla-olympia/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

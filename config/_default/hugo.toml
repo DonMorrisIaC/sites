@@ -31,7 +31,7 @@ enableEmoji = false
   series = "series"
 
 [sitemap]
-  changefreq = 'yearly'
+  changefreq = ''
   filename = 'sitemap.xml'
   priority = 0.5
 

@@ -3,7 +3,7 @@ title: "Flotilla Olympia"
 date: 2025-01-25
 description: "Book Page for Flotilla Olympia"
 draft: false
-tags: ["science fiction", "Mythology"]
+tags: ["Science Fiction", "Mythology"]
 ---
 With the help of a pioneering AI, thousands of starry-eyed pilgrims blast themselves out of the solar system in search of a new home. But things go disastrously wrong on the starship Olympia when a deadly malfunction forces the settlers to decelerate in the vast reaches of outer space with nothing but what the gods and innovation can provide. 
 <!--more-->
@@ -13,14 +13,10 @@ They call themselves the Titans, and as their sabotage grows bolder each day, Ru
 
 Get the full story on:
 
-{{< button href="https://www.amazon.co.uk/dp/B0CD4T4FST" target="_self" >}}
-Amazon{{< /button >}}&nbsp; 
-{{< button href="https://www.kobo.com/gb/en/ebook/flotilla-olympia-1" target="_self" >}}
-Kobo{{< /button >}}&nbsp;
-{{< button href="https://play.google.com/store/books/details?id=4lD4EAAAQBAJ" target="_self" >}}
-Google Books{{< /button >}} &nbsp;
-{{< button href="https://books2read.com/u/mBNvxM" target="_self" >}}
-And More{{< /button >}}
+{{< button href="https://www.amazon.co.uk/dp/B0CD4T4FST" target="_self" >}}Amazon{{< /button >}}&nbsp;
+{{< button href="https://www.kobo.com/gb/en/ebook/flotilla-olympia-1" target="_self" >}}Kobo{{< /button >}}&nbsp;
+{{< button href="https://play.google.com/store/books/details?id=4lD4EAAAQBAJ" target="_self" >}}Google Books{{< /button >}} &nbsp;
+{{< button href="https://books2read.com/u/mBNvxM" target="_self" >}}And More{{< /button >}}
 
 {{< figure
     src="book.jpg"

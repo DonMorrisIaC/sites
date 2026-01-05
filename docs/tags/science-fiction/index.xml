@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science Fiction on Don Morris Books</title>
-    <link>https://www.dmorris.uk/tags/science-fiction/</link>
+    <link>http://localhost:1313/tags/science-fiction/</link>
     <description>Recent content in Science Fiction on Don Morris Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Don Morris</copyright>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dmorris.uk/tags/science-fiction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/science-fiction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Flotilla Olympia</title>
-      <link>https://www.dmorris.uk/books/flotilla-olympia/</link>
+      <link>http://localhost:1313/books/flotilla-olympia/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://www.dmorris.uk/books/flotilla-olympia/</guid>
+      <guid>http://localhost:1313/books/flotilla-olympia/</guid>
       <description>&lt;p&gt;With the help of a pioneering AI, thousands of starry-eyed pilgrims blast themselves out of the solar system in search of a new home. But things go disastrously wrong on the starship Olympia when a deadly malfunction forces the settlers to decelerate in the vast reaches of outer space with nothing but what the gods and innovation can provide.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.dmorris.uk/books/flotilla-olympia/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/books/flotilla-olympia/feature.jpg" />
     </item>
     
   </channel>

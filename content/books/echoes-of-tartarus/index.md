@@ -13,7 +13,7 @@ A charismatic monk reviving faith in the old gods and a cynical genius tired of 
 
 Which side will Ruby take, and is Tartarus proof that humanity can adapt to anything except other humans?
 
-Get the full story on:
+<mark>Get the full story on</mark>
 
 {{< button href="https://www.amazon.co.uk/dp/B0CD4T4FST" target="_self" >}}
 Amazon{{< /button >}}&nbsp;

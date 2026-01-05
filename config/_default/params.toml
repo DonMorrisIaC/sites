@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 defaultBackgroundImage = "fireflies.svg"
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["books"]
 # robots = ""
 
 disableImageOptimization = false

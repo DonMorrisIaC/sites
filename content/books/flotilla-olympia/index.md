@@ -11,11 +11,11 @@ Ruby Ward wakes from hypersleep into a fleet of spacecraft carving out a life in
 
 They call themselves the Titans, and as their sabotage grows bolder each day, Ruby has no choice but to act. She will have to abandon her easy-going habits to save the remote pocket of life she calls home, unaware of the unfathomable forces she might unleash. 
 
-Get the full story on:
+<mark>Get the full story on</mark>
 
 {{< button href="https://www.amazon.co.uk/dp/B0CD4T4FST" target="_self" >}}Amazon{{< /button >}}&nbsp;
 {{< button href="https://www.kobo.com/gb/en/ebook/flotilla-olympia-1" target="_self" >}}Kobo{{< /button >}}&nbsp;
-{{< button href="https://play.google.com/store/books/details?id=4lD4EAAAQBAJ" target="_self" >}}Google Books{{< /button >}} &nbsp;
+{{< button href="https://play.google.com/store/books/details?id=4lD4EAAAQBAJ" target="_self" >}}Google{{< /button >}} &nbsp;
 {{< button href="https://books2read.com/u/mBNvxM" target="_self" >}}And More{{< /button >}}
 
 {{< figure

@@ -14,8 +14,6 @@ They call themselves the Titans, and as their sabotage grows bolder each day, Ru
 <mark>Get the full story on</mark>
 
 {{< button href="https://www.amazon.co.uk/dp/B0CD4T4FST" target="_self" >}}Amazon{{< /button >}}&nbsp;
-{{< button href="https://play.google.com/store/books/details?id=4lD4EAAAQBAJ" target="_self" >}}Google{{< /button >}}&nbsp;
-{{< button href="https://books2read.com/u/mBNvxM" target="_self" >}}And More{{< /button >}}&nbsp;
 
 {{< figure
     src="book.jpg"

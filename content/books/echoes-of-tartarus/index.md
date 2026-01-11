@@ -3,7 +3,7 @@ title: "Echoes of Tartarus"
 date: 2025-01-25
 description: "Book Page for Echoes of Tartarus"
 draft: false
-tags: ["Coming Spring 2026"]
+tags: ["Pre-Order Now"]
 ---
 Ruby Ward serves as a Hoplite peacekeeper tasked with upholding Sibylla’s order. After a stretch of welcome calm, her squad is caught completely off guard by a harmless protest that ends in an execution and a one-way trip to the fertiliser heap.
 <!--more-->
@@ -15,14 +15,14 @@ Which side will Ruby take, and is Tartarus proof that humanity can adapt to anyt
 
 <mark>Get the full story on</mark>
 
-{{< button href="https://www.amazon.co.uk/dp/B0CD4T4FST" target="_self" >}}
+{{< button href="https://www.amazon.co.uk/dp/B0GG7TPD4Y" target="_self" >}}
 Amazon{{< /button >}}&nbsp;
 
 {{< figure
     src="book.jpg"
     alt="Echoes of Tartarus Book Cover"
     nozoom=true
-    href="https://www.goodreads.com/book/show/199965503-flotilla-olympia"
+    href="https://www.goodreads.com/book/show/246442880-echoes-of-tartarus"
   class="sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3 2xl:w-1/3 border"
     >}}
 ***
